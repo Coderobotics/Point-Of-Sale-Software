@@ -3,7 +3,7 @@
 
 Inventory Management is a desktop based Billing, Inventory and Point Of Sale system that makes your retail business easy. It is a ready to use software for self service format of retails like super market, hyper mart, provision stores and department stores and other retail segments. It can be used for following retail segments such as Super Market, Fruits & Veg, Apparels, Restaurant, Bike & Car wash, Gym & Fitness, Salon & SPA, Bakery, Liquor Shops. This POS is developed in C#.Net with MS-Access and MSSQL database.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/06/inventory2.png">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738547860_f17f9f0873d551e20c16.webp">
 
 <b>Desktop based POS  has following features:</b>
 
@@ -51,5 +51,15 @@ Inventory Management is a desktop based Billing, Inventory and Point Of Sale sys
 <li>Supplier Payment</li>
 <li>Barcode Print</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/point-of-sale/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/point-of-sale-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
